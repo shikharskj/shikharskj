@@ -104,13 +104,16 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Intelli-prep](https://github.com/shikharskj/Intelli-prep) | AI-assisted interview preparation app with markdown and code-highlighted answers | React, TypeScript, Vite, Tailwind, Framer Motion |
-| [customer-portal](https://github.com/shikharskj/customer-portal) | Customer portal with virtualized infinite lists for large datasets | Next.js, TypeScript, react-window |
-| [jirafy-board](https://github.com/shikharskj/jirafy-board) | Jira-style task board | JavaScript, React |
+| [Intelli-prep](https://github.com/shikharskj/Intelli-prep) | AI interview-prep app with tailored questions and AI explanations *(in progress)* | React 19, TypeScript, Vite, Tailwind, Framer Motion |
+| [social-media-website](https://github.com/shikharskj/social-media-website) | Social network with posts, comments, likes, Google OAuth, JWT API, and Kue email jobs | Node.js, Express, MongoDB, Passport, EJS, Redis |
+| [customer-portal](https://github.com/shikharskj/customer-portal) | Virtualized, infinitely loading customer list with a live Unsplash photo grid | Next.js, TypeScript, react-window |
+| [jirafy-board](https://github.com/shikharskj/jirafy-board) | Jira-style Kanban board with drag and drop, filters, and search | React, TypeScript, Zustand, MUI |
+| [chalo-route](https://github.com/shikharskj/chalo-route) | Bus-route manager with stops drawn as polylines on a Leaflet map | React, MUI, Leaflet |
 | [Mini-Social-Feed-App](https://github.com/shikharskj/Mini-Social-Feed-App) | Social feed app | React |
-| [disney-plus-hotstar-](https://github.com/shikharskj/disney-plus-hotstar-) | Responsive Disney+ Hotstar clone | React, Redux, styled-components |
-| [Beat-Box](https://github.com/shikharskj/Beat-Box) | Music player with a polished UI | JavaScript |
-| [UpSolve-DSA](https://github.com/shikharskj/UpSolve-DSA) | Data structures and algorithms practice | — |
+| [ng-dummy-dashboard](https://github.com/shikharskj/ng-dummy-dashboard) | Admin dashboard with amCharts visualisations | Angular 12, Angular Material |
+| [api-viewer](https://github.com/shikharskj/api-viewer) | Postman-style API request and response viewer | React, CodeMirror, Axios |
+| [disney-plus-hotstar-](https://github.com/shikharskj/disney-plus-hotstar-) | Responsive Disney+ Hotstar clone | React, Redux, styled-components, Firebase |
+| [Beat-Box](https://github.com/shikharskj/Beat-Box) | Spotify-powered music player | React, Redux Toolkit, Spotify Web API |
 
 </details>
 
