@@ -22,7 +22,8 @@
 - 💳 **Payments specialist:** Razorpay subscriptions with verified, idempotent webhooks, and a double-entry payments engine on PostgreSQL
 - ⚡ **Performance-minded:** cut a SaaS bundle by **73% (6.3 MB → 1.7 MB)**, improved initial load by **18%**, and shaved **150–200 ms** off average API response time
 - 🤖 **AI products:** tool-gated LLM copilots (Vercel AI SDK + Gemini) that run under the user's identity and permissions, never raw SQL
-- 🔭 Currently building **[AI Business OS](https://github.com/shikharskj/ai-business-os)**, an AI-native ERP for Indian SMEs
+- 🔭 Currently building **[Outfit](https://github.com/shikharskj/outfit-ecom)**, a fashion e-commerce platform (Next.js storefront + admin in a Turborepo monorepo)
+- ✅ Recently shipped **[AI Business OS](https://github.com/shikharskj/ai-business-os)**, an AI-native ERP for Indian SMEs ([live](https://ai-business-erp.netlify.app/))
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shikharskj/) or by [email](mailto:shikharskj21@gmail.com)
 
 ---
