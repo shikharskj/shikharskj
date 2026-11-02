@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shikharskj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikharskj/)
 [![Email](https://img.shields.io/badge/Email-shikharskj21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shikharskj21@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=shikharskj&style=for-the-badge&color=6c47ff&label=Profile+views)](https://github.com/shikharskj)
 
 </div>
 
