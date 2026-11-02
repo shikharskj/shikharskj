@@ -23,7 +23,7 @@
 - ⚡ **Performance-minded:** cut a SaaS bundle by **73% (6.3 MB → 1.7 MB)**, improved initial load by **18%**, and shaved **150–200 ms** off average API response time
 - 🤖 **AI products:** tool-gated LLM copilots (Vercel AI SDK + Gemini) that run under the user's identity and permissions, never raw SQL
 - 🔭 Currently building **[Outfit](https://github.com/shikharskj/outfit-ecom)**, a fashion e-commerce platform (Next.js storefront + admin in a Turborepo monorepo)
-- ✅ Recently shipped **[AI Business OS](https://github.com/shikharskj/ai-business-os)**, an AI-native ERP for Indian SMEs ([live](https://ai-business-erp.netlify.app/))
+- ✅ Recently shipped **[DevTinder](https://github.com/shikharskj/dev-tinder)**, a developer-networking app with real-time chat and Razorpay subscriptions ([live](https://dev-tinder-community.in/))
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shikharskj/) or by [email](mailto:shikharskj21@gmail.com)
 
 ---
